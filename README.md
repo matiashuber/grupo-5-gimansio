@@ -14,6 +14,8 @@ Por último, el sitio da la posibilidad (una vez fidelizado el cliente, o que ha
 
 [Virginia Díaz](https://github.com/VirginiaDi) : soy de Córdoba Capital, Argentina. Tengo 26 años. Actualmente estoy cursando la tesis de Diseño Industrial en la FAUD, de la Universidad Nacional de Córdoba, y trabajando para una empresa de emergencias médicas.
 
+[Matias Huber](https://github.com/matiashuber) : soy de Buenos Aires, Argentina. Tengo 18 años. Actualmente estoy terminando la secundaria.
+
 ## Listado de antecedentes de sitios de referencia:
 
 https://bestclub.com.ar
