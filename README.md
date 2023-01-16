@@ -17,3 +17,4 @@ Por último, el sitio da la posibilidad (una vez fidelizado el cliente, o que ha
 ## Listado de antecedentes de sitios de referencia:
 
 https://bestclub.com.ar
+https://qualitygym.com.ar
