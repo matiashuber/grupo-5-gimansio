@@ -12,9 +12,11 @@ Por último, el sitio da la posibilidad (una vez fidelizado el cliente, o que ha
 
 ## Integrantes del equipo:
 
-[Virginia Díaz](https://github.com/VirginiaDi) : soy de Córdoba Capital, Argentina. Tengo 26 años. Actualmente estoy cursando la tesis de Diseño Industrial en la FAUD, de la Universidad Nacional de Córdoba, y trabajando para una empresa de emergencias médicas.
+[Virginia Díaz](https://github.com/VirginiaDi) : Soy de Córdoba Capital, Argentina. Tengo 26 años. Actualmente estoy cursando la tesis de Diseño Industrial en la FAUD, de la Universidad Nacional de Córdoba, y trabajando para una empresa de emergencias médicas.
 
-[Matias Huber](https://github.com/matiashuber) : soy de Buenos Aires, Argentina. Tengo 18 años. Actualmente estoy terminando la secundaria.
+[Matias Huber](https://github.com/matiashuber) : Soy de Buenos Aires, Argentina. Tengo 18 años. Actualmente estoy terminando la secundaria.
+
+[Federico Giovannacci](https://github.com/FedericoGiovannacci) : Soy de Buenos Aires, Argentina. Tengo 26 años. Soy Ingeniero Industrial y trabajo como consultor en finanzas y RRHH. Me inscribí en el curso por curiosidad y para aprender una herramienta extra.
 
 ## Listado de antecedentes de sitios de referencia:
 
