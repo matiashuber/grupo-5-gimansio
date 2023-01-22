@@ -16,7 +16,9 @@ Por último, el sitio da la posibilidad (una vez fidelizado el cliente, o que ha
 
 [Matias Huber](https://github.com/matiashuber) : Soy de Buenos Aires, Argentina. Tengo 18 años. Actualmente estoy terminando la secundaria.
 
-[Federico Giovannacci](https://github.com/FedericoGiovannacci) : Soy de Buenos Aires, Argentina. Tengo 26 años. Soy Ingeniero Industrial y trabajo como consultor en finanzas y RRHH. Me inscribí en el curso por curiosidad y para aprender una herramienta extra.
+[Federico Giovannacci](https://github.com/FedericoGiovannacci) : Soy de Buenos Aires, Argentina. Tengo 26 años. Soy Ingeniero Industrial y trabajo como consultor en finanzas y RRHH. Me inscribí en el curso por curiosidad y para aprender una herramienta extra.,
+
+Me llamo Gisel Maldonado, soy de la ciudad de La Plata, Contadora Pública, tengo mi porpio estudio y tengo 47 años.
 
 ## Listado de antecedentes de sitios de referencia:
 
@@ -25,3 +27,8 @@ https://bestclub.com.ar
 https://qualitygym.com.ar
 
 https://inclub.com.ar
+
+https://sportclub.com.ar
+
+https://megatlon.com.ar
+
