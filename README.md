@@ -30,5 +30,5 @@ https://inclub.com.ar (en la misma, podemos rescatar datos de como se ve el apar
 
 https://sportclub.com.ar (el menú esta distribuido a lo largo de la página web, no esta en la barra superior, como en el resto de páginas).
 
-https://megatlon.com.ar
+https://megatlon.com.ar (el inicio, persigue una estructura "corrediza", pero es acotada, lo cual es interesante para acompañar con un menú completo en la barra superior).
 
