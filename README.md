@@ -22,13 +22,13 @@ Por último, el sitio da la posibilidad (una vez fidelizado el cliente, o que ha
 
 ## Listado de antecedentes de sitios de referencia:
 
-https://bestclub.com.ar
+https://bestclub.com.ar (desde la aplicación móvil, el menú es sencillo pero es fácil de plantear, tanto como para el usuario, como para el dev).
 
-https://qualitygym.com.ar
+https://qualitygym.com.ar (el inicio es una sola página, es decir que no se desliza hacia abajo, aunque también se podría plantear con esta dinámica).
 
-https://inclub.com.ar
+https://inclub.com.ar (en la misma, podemos rescatar datos de como se ve el apartado "Carrito" y "Horarios", planteados en una interfaz muy sencilla e intuitiva).
 
-https://sportclub.com.ar
+https://sportclub.com.ar (el menú esta distribuido a lo largo de la página web, no esta en la barra superior, como en el resto de páginas).
 
 https://megatlon.com.ar
 
