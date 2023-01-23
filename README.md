@@ -18,7 +18,7 @@ Por último, el sitio da la posibilidad (una vez fidelizado el cliente, o que ha
 
 [Federico Giovannacci](https://github.com/FedericoGiovannacci) : Soy de Buenos Aires, Argentina. Tengo 26 años. Soy Ingeniero Industrial y trabajo como consultor en finanzas y RRHH. Me inscribí en el curso por curiosidad y para aprender una herramienta extra.,
 
-Me llamo Gisel Maldonado, soy de la ciudad de La Plata, Contadora Pública, tengo mi porpio estudio y tengo 47 años.
+[Gisel Maldonado](https://github.com/Gisel23) : soy de la ciudad de La Plata, Contadora Pública, tengo mi propio estudio y tengo 47 años.
 
 ## Listado de antecedentes de sitios de referencia:
 
