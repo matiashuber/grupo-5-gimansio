@@ -20,6 +20,8 @@ Por último, el sitio da la posibilidad (una vez fidelizado el cliente, o que ha
 
 [Gisel Maldonado](https://github.com/Gisel23) : soy de la ciudad de La Plata, Contadora Pública, tengo mi propio estudio y tengo 47 años.
 
+[Ignacio Torres](https://github.com/itorres8) : soy de Paysandú, Uruguay. Estudié electrónica y algo de programación. Tengo 30 años.
+
 ## Listado de antecedentes de sitios de referencia:
 
 https://bestclub.com.ar (desde la aplicación móvil, el menú es sencillo pero es fácil de plantear, tanto como para el usuario, como para el dev).
