@@ -1,0 +1,27 @@
+{
+  "name": "grupo-5-gimnasio",
+  "version": "1.0.0",
+  "description": "· Descripción del sitio: el sitio con la temática propuesta ofrecerá actividades (servicios) varias. Las mismas son las propias que se pueden desarrollar en un gimnasio: aerobico, yoga, crossfit, pilates, spinning, entrenamiento funcional, etc. con una breve descripción de cada una. Las mismas puedan ser \"adquiridas\" (y para facilitarle la elección de pago al cliente y vendedores) mediante el sistema de elección por -PLAN- (pase mensual, por 3 meses, 6 meses, etc.).\r Otro servicio que ofrecerá el sitio, es mostrar el calendario semanal con horarios en donde se desarrollan las distintas actividades (y asi el cliente puede elegir el plan más acorde de acuerdo a la actividad/es que quiera realizar).",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiashuber/grupo-5-gimnasio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiashuber/grupo-5-gimnasio/issues"
+  },
+  "homepage": "https://github.com/matiashuber/grupo-5-gimnasio#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
