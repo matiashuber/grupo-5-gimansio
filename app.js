@@ -7,6 +7,10 @@ const publicPath = path.join(__dirname,'Public');
 
 app.use(express.static(publicPath));
 
+app.set('port', process.env.PORT || 3000)
+
+app.listen(app.get('port'), console.log(`Server started on http://localhost:${app.get('port')}`));
+
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '/Views/home.html'));
 });
@@ -27,8 +31,4 @@ app.get('/FormularioDeRegistro', (req,res)=> {
     res.sendFile(path.join(__dirname, '/Views/FormularioDeRegistro.html'));
 });
 
-const port = 3000;
-app.listen(port, () => {
-    console.log(`Server started on http://localhost:${port}`);
-});
 
