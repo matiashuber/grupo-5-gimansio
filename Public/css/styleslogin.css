@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+header {
+    background-color: rgb(244, 169, 30);
+    display: flex;
+    flex-direction: column;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(244, 169, 30);
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h3 strong {
+
+    font-size: 18px;
+    color: white;
+}
+
+h3{
+    font-size:14px ;
+}
+
+.menu-container{
+    font-family: 'Roboto', sans-serif;
+    color:black;
+    padding: 5px;
+    display: none;
+    justify-content: space-between;
+}
+
+ul{
+    list-style: none;
+    padding:0;
+}
+
+.menu-carrito{
+    font-family: 'Roboto', sans-serif;
+    color:black;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.burguer-menu{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    border-radius: 4px;
+}
+button{
+    background-color: rgb(244, 169, 30);
+    
+}
+
+main{
+    margin: 0;
+    padding: 60%;
+    background-color: rgb(209, 176, 176);
+    font-family: "Roboto", sans-serif;
+    color: black;
+    display: flex;
+justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 9px;
+    text-align:center ;
+}
+
+footer{
+    display: flex;
+    background-color:grey ;
+    color: white ;
+    padding: 10px;
+    justify-content: space-between;
+
+}
+
+@media (min-width: 768px) {
+     .menu-container{
+        display: flex;    
+justify-content: space-between;
+padding: 10px;
+     }
+
+
